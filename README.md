@@ -1,5 +1,4 @@
-- [Mohammed Fariz](https://www.linkedin.com/in/mohammed-fariz)
-- Javascript Developer
+- [Mohammed Fariz](https://www.linkedin.com/in/mohammed-fariz), Javascript Developer, TN, India.
 - mohmd.fariz@gmail.com
 
 <!---
