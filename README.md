@@ -1,6 +1,6 @@
-- 👋 [Mohammed Fariz](https://www.linkedin.com/in/mohammed-fariz)
-- 👀 Javascript Developer
-- 📫 mohmd.fariz@gmail.com
+- [Mohammed Fariz](https://www.linkedin.com/in/mohammed-fariz)
+- Javascript Developer
+- mohmd.fariz@gmail.com
 
 <!---
 fariz-codes/fariz-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
